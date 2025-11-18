@@ -58,17 +58,9 @@ Seguiu-se as etapas clássicas recomendadas na certificação:
 
 Requisitos básicos (R / Python conforme o notebook):
 
-1. Clone este repositório ou faça o download do notebook `estudo-de-caso-bellabeat-em-r.ipynb`.
-2. Ambiente recomendado: Python 3.8+ com Jupyter Notebook / JupyterLab ou RStudio se optar por versão em R.
+1. Clone este repositório ou faça o download do notebook `estudo-de-caso-bellabeat-em-r.ipynb`, ou
+2. Acesse o link do notebook hospedado pelo Kaggle e execute diretamente: https://www.kaggle.com/code/fernandapachecobento/estudo-de-caso-bellabeat-em-r
 
-Dependências comuns (exemplo para Python):
-```
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-``` 
 Para R, bibliotecas comuns mencionadas no notebook original incluem `tidyverse`, `lubridate`, `ggplot2`, etc.
 
 
