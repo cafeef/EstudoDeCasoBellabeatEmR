@@ -40,6 +40,8 @@ Os dados utilizados neste projeto derivam de datasets públicos (conforme o note
 
 Link do dataset: https://www.kaggle.com/datasets/arashnic/fitbit
 
+Meu notebook no Kaggle: https://www.kaggle.com/code/fernandapachecobento/estudo-de-caso-bellabeat-em-r
+
 Créditos e link para o notebook/inspiração do MD Diallo: https://www.kaggle.com/code/diaodiallo/md-s-bellabeat-case-study-with-r
 
 
